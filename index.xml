@@ -1,1 +1,63 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>My test Hugo Site</title><link>https://oChunCai.github.io/</link><description>Recent content on My test Hugo Site</description><generator>Hugo</generator><language>en-us</language><lastBuildDate/><atom:link href="https://oChunCai.github.io/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>My test Hugo Site！</title><link>https://oChunCai.github.io/</link><description>Recent content on My test Hugo Site！</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 25 Aug 2025 23:33:48 +0800</lastBuildDate><atom:link href="https://oChunCai.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Test</title><link>https://oChunCai.github.io/test/</link><pubDate>Mon, 25 Aug 2025 23:33:48 +0800</pubDate><guid>https://oChunCai.github.io/test/</guid><description>&lt;p>Test!!!!!&lt;/p>
+&lt;h2 id="这是一个测试文章">这是一个测试文章&lt;/h2>
+&lt;p>今天天气真不错，阳光明媚，适合写点什么。这只是一个随意的测试文档，用来展示markdown的各种功能。&lt;/p>
+&lt;h3 id="一些有趣的想法">一些有趣的想法&lt;/h3>
+&lt;ul>
+&lt;li>生活就像一盒巧克力，你永远不知道下一颗是什么味道&lt;/li>
+&lt;li>编程是一门艺术，也是一门科学&lt;/li>
+&lt;li>学习新技术总是令人兴奋的&lt;/li>
+&lt;/ul>
+&lt;h3 id="代码示例">代码示例&lt;/h3>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-javascript" data-lang="javascript">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">function&lt;/span> &lt;span style="color:#a6e22e">sayHello&lt;/span>(&lt;span style="color:#a6e22e">name&lt;/span>) {
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">console&lt;/span>.&lt;span style="color:#a6e22e">log&lt;/span>(&lt;span style="color:#e6db74">`你好，&lt;/span>&lt;span style="color:#e6db74">${&lt;/span>&lt;span style="color:#a6e22e">name&lt;/span>&lt;span style="color:#e6db74">}&lt;/span>&lt;span style="color:#e6db74">！`&lt;/span>);
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>}
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#a6e22e">sayHello&lt;/span>(&lt;span style="color:#e6db74">&amp;#34;世界&amp;#34;&lt;/span>);
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h3 id="今日计划">今日计划&lt;/h3>
+&lt;ol>
+&lt;li>喝一杯咖啡 ☕&lt;/li>
+&lt;li>写代码&lt;/li>
+&lt;li>看看技术文章&lt;/li>
+&lt;li>散步放松一下&lt;/li>
+&lt;/ol>
+&lt;hr>
+&lt;blockquote>
+&lt;p>&amp;ldquo;最好的代码是那些看起来显而易见的代码。&amp;rdquo; —— 某个聪明的程序员&lt;/p>&lt;/blockquote>
+&lt;p>&lt;strong>加粗文本&lt;/strong> 和 &lt;em>斜体文本&lt;/em> 的使用让文档更有层次感。&lt;/p>
+&lt;h3 id="链接和图片">链接和图片&lt;/h3>
+&lt;p>这里可以放一些有用的链接：&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com">GitHub&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://stackoverflow.com">Stack Overflow&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="表格示例">表格示例&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>语言&lt;/th>
+ &lt;th>难度&lt;/th>
+ &lt;th>推荐指数&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Python&lt;/td>
+ &lt;td>简单&lt;/td>
+ &lt;td>⭐⭐⭐⭐⭐&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>JavaScript&lt;/td>
+ &lt;td>中等&lt;/td>
+ &lt;td>⭐⭐⭐⭐&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Go&lt;/td>
+ &lt;td>中等&lt;/td>
+ &lt;td>⭐⭐⭐⭐&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h3 id="结语">结语&lt;/h3>
+&lt;p>这就是一个随意写的markdown文档，包含了各种常见的markdown元素。希望对你有用！&lt;/p>
+&lt;hr>
+&lt;p>&lt;em>最后更新时间：2025年8月25日&lt;/em>&lt;/p></description></item></channel></rss>
